@@ -1,0 +1,57 @@
+.signUp_container{
+    border : 1px solid #dbdbdb;
+    background-color:white ;
+    width: 350px;
+    height: 500px;
+    margin: 50px auto 50px;
+}
+
+.instagramText {
+    height: 50px;
+    width: 160px;
+    display: block;
+    margin: 50px auto 50px;
+}
+
+.joinLetter{
+    text-align: center;
+    font-size: 120% ;
+    color:dimgray;
+}
+
+.usersignUp{
+    width: 80%;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    padding: 10px 0 10px 8px;
+    background-color: #fafafa;
+    border: 1px solid #dbdbdb;
+    border-radius: 5px;
+
+}
+
+#signUpButton{
+    width: 82.5%;
+    background-color: rgb(83, 140, 245);
+    color:cornsilk;
+    margin-top: 10px;
+    margin-left: 30px;
+    padding: 10px 0 ;
+    border-radius: 5px;
+}
+
+.joinInsta{
+    border : 1px solid #dbdbdb;
+    background-color: white;
+    width: 350px;
+    height: 70px;
+    margin: 50px auto 50px;
+}
+
+.joinBtn{
+    border: None;
+    display: block;
+    background-color: white;
+    padding: 0;
+    margin-left:35px;
+}

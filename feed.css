@@ -1,0 +1,39 @@
+body {
+    background-color: lightgray;
+    margin: 0;
+}
+
+.cardViewSection{
+    background-color: white;
+    width: 400px;
+    height: 600px;
+    margin: 0;
+}
+
+.userNickName{
+    padding: 3%;
+}
+
+.cardImage img{
+    width: 100%;
+}
+
+.infoleft, .infoRight{
+    display: flex;
+    justify-content:flex-end;
+    align-items: center;
+}
+
+.cardInfo img{
+    width: 25px;
+}
+
+.comment_form {
+    border-top: 1px solid lightgrey;
+    padding: 5px 0 8px 8px;
+    margin-top: 10px;
+}
+
+.comment_form input{
+    border: None;
+}
